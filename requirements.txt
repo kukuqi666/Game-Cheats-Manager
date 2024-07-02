@@ -1,0 +1,12 @@
+beautifulsoup4
+cn2an
+fuzzywuzzy
+pinyin
+polib
+psutil
+PyQt6
+PyQt6-WebEngine
+python-Levenshtein
+requests
+tendo
+translators
