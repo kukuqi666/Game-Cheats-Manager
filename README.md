@@ -30,4 +30,4 @@ Game Cheats Manager 是一个独立工具，与任何外部修改器提供商均
 
 ## 支持
 
-如遇问题、功能请求或想参与项目开发，请访问 [QQ](https://res.abeim.cn/api/qq/?qq=2506230866)。
+如遇问题、功能请求或想参与项目开发，请访问 [QQ](https://res.abeim.cn/api/qq/?qq=2506230866)，电脑打开可能报错 请用手机版打开
