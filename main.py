@@ -33,9 +33,9 @@ class GameCheatsManager(QMainWindow):
 
         # Version and links
         self.appVersion = "2.1.0"
-        self.githubLink = "https://github.com/dyang886/Game-Cheats-Manager"
-        self.updateLink = "https://api.github.com/repos/dyang886/Game-Cheats-Manager/releases/latest"
-        self.bilibiliLink = "https://space.bilibili.com/256673766"
+        self.githubLink = "https://github.com/kukuqi666/Game-Cheats-Manager"
+        self.updateLink = "https://api.github.com/repos/kukuqi666/Game-Cheats-Manager/releases/latest"
+        self.bilibiliLink = "https://space.bilibili.com/457053522"
 
         # Paths and variable management
         self.trainerSearchEntryPrompt = tr("Search for installed")
