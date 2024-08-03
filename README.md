@@ -36,10 +36,10 @@ Game Cheats Manager 是一个独立工具，与任何外部修改器提供商均
 
 ## 支持
 
-如遇问题、功能请求或想参与项目开发，请访问 [GitHub repository](https://github.com/kukuqi666/Game-Cheats-Manager)。
+如遇问题、功能请求或想参与项目开发，请访问 [GitHub 存储库](https://github.com/kukuqi666/Game-Cheats-Manager)。
 
 以下是捐助方式:
 
 |                             微信                             |                          支付宝                          |                          QQ                          |
 | :----------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------: |
-| <img src="assets\wechat.png" alt="WeChat Pay" width="200" /> | <img src="assets\alipay.png" alt="Alipay" width="200" /> | <img src="assets\qq.png" alt="QQ Pay" width="200" /> |
+| <img src="assets\wechat.jpg" alt="WeChat Pay" width="200" /> | <img src="assets\alipay.jpg" alt="Alipay" width="200" /> | <img src="assets\qq.jpg" alt="QQ Pay" width="200" /> |
