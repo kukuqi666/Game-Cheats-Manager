@@ -787,6 +787,7 @@ class UpdateTrainers(DownloadBaseThread):
         temp_version_info = os.path.join(VERSION_TEMP_DIR, f"version_info_{unique_id}.rc")
 
         # Command to extract version information using Resource Hacker
+        # Alternative: Resource Cracker https://www.pelock.com/products/resource-cracker
         command = [resourceHacker_path, "-open", trainerPath, "-save",
                    temp_version_info, "-action", "extract", "-mask", "VERSIONINFO,,"]
         subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, creationflags=subprocess.CREATE_NO_WINDOW)
